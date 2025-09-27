@@ -43,7 +43,7 @@ The dataset typically includes the following features:
 
 ## 🖼️ Sample Visualizations
 
- [Factors Affecting Attrition](image.png)
+ ![Factors Affecting Attrition](image.png)
 
 ## 📈 Insights & Recommendations:
 
